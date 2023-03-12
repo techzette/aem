@@ -752,6 +752,12 @@ Bundle-DocURL:
                 <version>${wknd-shared.version}</version>
                 <type>zip</type>
             </dependency>
+            <dependency>
+                <groupId>org.cid15.aem.groovy.console</groupId>
+                <artifactId>aem-groovy-console-all</artifactId>
+                <version>17.0.0</version>
+                <type>zip</type>
+            </dependency>
 
             <!-- Testing -->
             <dependency>
